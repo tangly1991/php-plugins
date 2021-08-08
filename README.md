@@ -1,1 +1,1 @@
-# thinkcmf-
+# thinkcmf-plugins
