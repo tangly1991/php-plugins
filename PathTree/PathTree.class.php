@@ -110,7 +110,6 @@ class PathTree {
 	}
 }
 
-/*
 // 二维数组 生成无限分类树(多维，循环)
 // @Author   mmt
 function mmt_make_tree($items, $pid_key = 'pid', $id_key = 'id', $children='children')
@@ -148,4 +147,3 @@ function imp($tree, $children='children') {
   }
   return $imparr;
 }
-*/
